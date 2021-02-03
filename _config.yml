@@ -1,7 +1,7 @@
 # Site
 title:              Maeng
-bio:                개발 블로그
-description:        아직 건드려 보는 중....
+bio:                '개발 블로그'
+description:        "아직 건드려 보는 중...."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
